@@ -2,21 +2,21 @@
 layout: default
 ---
 
-hola, soy Alejandro Escalante, un estudiante Mexicano de animación y arte digital de 19 años.
+Hey! I'm Alejandro Escalante, a 19 year old arts and animations mayor.
 
-Me gusta el cine, la computación y mi espacio.
+I like movies, computers and a little extra space
 
-Creo profundamente que la información y la educación no deberían ser privadas, en el sentido de "fuera del alcance" del publico y por eso estaré publicando aquí todas mis notas académicas, documentos como tareas y artículos, presentaciones (con y sin audio), recursos de computación y tutoriales de diversos temas que me apasionan.
+I'm a strong beveler that information as well as education shouldn't be secrets or out of reach of the general public and this is why I made this website, to publish all my academic notes, documents, articles, presentations (with and without narration) and even some homeworks as well as some personal written articles and tutorials I decide to do out of interest and passion for a given topic.
 
-Película favorita: Odisea del espacio 2001
+Favorite movie: 2001 A Space Odyssey
 
-café>te
+coffee>tea 
 
-Prueba de identidad en [keybase](https://keybase.io/alexesc)
+Identity proof on  [keybase](https://keybase.io/alexesc)
 
-> [FAQ[()
+> [FAQ]()
 
 
 ---
 
-Si tienes alguna duda o quieres estar en contacto puedes contactarme en mi correo alexesc@disroot.org
+If you have any questions or want to keep contact you can reach me at alexesc@disroot.org
