@@ -1,19 +1,20 @@
-Hola, esta es mi pagina personal donde puedes encontrar mis documentos y otros recursos.
+Hey! This is my website, on here you can find documents and other resources of mine
 
-Aun en construción...
+This site is still under development...
 
 
-En el futuro habra:
+In the future this website will have:
 
-* Mi CV
-* Una descripción de mi menos incomoda
-* Mapa de documentos
-* Programas y recursos de computación
-* Articulos y blogs
-* Tutoriales de cosas que encuentre interesante
-* mas listas
+* My CV
+* A less awkward about me page
+* Document index
+* Software and computer resources
+* Blogs & articles
+* Tutorials I made on stuff I like
+* More bullet points
 
-Por ahora puedes ver:
+For the time being you can check out:
 
-* [Documentos](/docs/document_index.md)
-* [Un cómic](https://c.xkcd.com/random/comic/)
+* [My documents](https://alex-esc.github.io/en_us//docs/document_index.html)
+* [An xkcd comic](https://c.xkcd.com/random/comic/)
+
