@@ -33,7 +33,7 @@ Here you can find all my public documents, if your looking for anything specific
 ## Blog
 
 * [How to have all your contacts on one safe place.](https://alejandroescalantemtz.github.io/blog/contacts.html)
-* [Why Online Privacy Matters?][https://alex-esc.github.io/posts/why-online-privacy-matters.html]
+* [Why Online Privacy Matters?](https://alex-esc.github.io/posts/why-online-privacy-matters.html)
 
 
 ---
