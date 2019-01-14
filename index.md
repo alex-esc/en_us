@@ -23,3 +23,20 @@ For the time being you can check out:
 * [My documents](https://alex-esc.github.io/en_us//docs/document_index.html)
 * [An xkcd comic](https://c.xkcd.com/random/comic/)
 
+<!--
+
+{% for post in site.posts %}
+
+<article class='post'>
+  <h1 class='post-title'>
+    <a href="{{ site.path }}{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h1>
+  <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+  {{ post.content }}
+</article>
+
+{% endfor %}
+
+-->
