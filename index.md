@@ -1,3 +1,8 @@
+---
+layout: default
+title: Welcome
+---
+
 Hey! This is my website, on here you can find documents and other resources of mine
 
 This site is still under development...
