@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Contacto
+# Contact info
 
 ## E-Mail & Delta-Chat
 
@@ -18,6 +18,6 @@ layout: default
 
 ---
 
-## Prueba de identidad
+## identity proof
 
 [alex-esc.github.io/keybase](https://alex-esc.github.io/keybase.txt)
