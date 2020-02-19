@@ -1,27 +1,26 @@
 ---
-layout: default
-title: Welcome
+layout: welcome
+title: My site
 ---
 
-Hey! This is my website, on here you can find documents and other resources of mine
 
-This site is still under development...
+<!--
+<center><img src="img/mecir.png"/></center>
+-->
 
 
-In the future this website will have:
 
-* My CV
-* A less awkward about me page
-* Document index
-* Software and computer resources
-* Blogs & articles
-* Tutorials I made on stuff I like
-* More bullet points
 
-For the time being you can check out:
+Hola, soy un estudiante de psicología de 21 años (anteriormente arte digital) y esta es mi pagina personal donde puedes encontrar mis documentos ademas de otros recursos.
 
-* [My documents](https://alex-esc.github.io/en_us//docs/document_index.html)
-* [An xkcd comic](https://c.xkcd.com/random/comic/)
+Disfruto el cine de culto, escuchar y tocar música, un buen libro, la IndieWeb, desarrollar mis herramientas y el café en altas cantidades.
+
+
+---
+
+[Ponte en contacto conmigo][1]
+
+[1]: https://alex-esc.github.io/contact.html
 
 <!--
 
